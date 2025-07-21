@@ -30,10 +30,12 @@ The system supports three distinct user roles:
 * **Submit Feedback:** Provide feedback and ratings for the platform.
 ---
 
-# Project Presentation
+### 📊 Project Presentation
 
-For a detailed overview and flow of the project, please view our presentation.
-* **[Link to Project PPT]([https://docs.google.com/presentation/d/1f-4WJPAIrlj8pid7PR3KWSvAk376sU9pFSqX6gMpvxU/edit?usp=sharing])**
+For a detailed overview and workflow of the project, please check out our presentation:
+
+🔗 **[View Project PPT](https://docs.google.com/presentation/d/1f-4WJPAIrlj8pid7PR3KWSvAk376sU9pFSqX6gMpvxU/edit?usp=sharing)**
+
 
 ---
  
