@@ -33,7 +33,7 @@ The system supports three distinct user roles:
 # Project Presentation
 
 For a detailed overview and flow of the project, please view our presentation.
-* **[Link to Project PPT](https://example.com/your-ppt-link-here)**
+* **[Link to Project PPT]([https://example.com/your-ppt-link-here](https://docs.google.com/presentation/d/1f-4WJPAIrlj8pid7PR3KWSvAk376sU9pFSqX6gMpvxU/edit?usp=sharing))**
 
 ---
  
